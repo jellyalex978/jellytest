@@ -18,6 +18,7 @@ ul,ol {
 
 fieldset,img { 
 	border: none; 
+	margin-top: 20000000px;
 	}
 	
 caption,th { 
